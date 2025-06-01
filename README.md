@@ -92,7 +92,7 @@ It defines:
 Screenshots of the key application screens are placed in:
 
 ```
-/docs/screenshots/
+/Data/screenshots/
 ```
 
 ##  References
